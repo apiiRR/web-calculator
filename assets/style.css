@@ -92,6 +92,6 @@ tr:nth-child(even) {
     }
 
     .history {
-        width: 100px;
+        width: 100%;
     }
 }
